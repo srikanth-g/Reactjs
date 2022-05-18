@@ -1,4 +1,4 @@
 <?php
 YOYO
-how to f***?
-3rd line good git f***?
+how to ?
+3rd line good git ?
